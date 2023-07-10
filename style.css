@@ -106,3 +106,25 @@
     align-items: center;
     text-decoration: underline;
 }
+/* delivery part style */
+.delivery-container{
+    background-color: #F4F4F4;
+    margin: 100px 120px;
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    border-radius: 20px;
+}
+.icon{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.icon-img{
+   width: 80px;
+   margin-bottom: 20px;
+
+}
