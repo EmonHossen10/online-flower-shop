@@ -175,3 +175,46 @@
 .flowers-image{
   width: 300px;
 }
+/*  Latest deal style */
+.latest-container{
+  background-image: url("./Flower Asset/Rectangle 9.png");
+  background-size: cover;
+  height: 60vh;
+  width: 86%;
+  margin-left: 8%;
+  margin-bottom: 100px;
+  
+}
+.latest-text{
+  display: flex;
+  flex-direction: column;
+  justify-content: center  ;
+  align-items: center;
+  padding-top: 10%;
+}
+.latest-title{
+  font-size: 45px;
+  padding-bottom: 10px;
+}
+.form-container{
+  margin-top: 40px;
+  margin-left: 20%;
+}
+.input-feild{
+  width: 700px;
+  height: 50px;
+  border-radius: 5px;
+  border: none;
+  padding: 20px;
+  font-size: 17px;
+  margin-right: 20px;
+}
+.secondary-btn{
+  background-color: #e55473;
+  color: white;
+  font-size: 16px;
+  padding: 15px 45px;
+  border: none;
+  border-radius: 5px;
+  height: 50px;
+}
