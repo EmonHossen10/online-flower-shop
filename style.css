@@ -164,3 +164,14 @@
   font-size: 18px;
   line-height: 1.4em;
 }
+/* Flowers section style */
+.flowers-container{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0 100px;
+  margin-bottom: 100px;
+}
+.flowers-image{
+  width: 300px;
+}
