@@ -151,56 +151,55 @@
   width: 250px;
 }
 /* Instragram part style */
-.instragram-container{
+.instragram-container {
   text-align: center;
   margin: 100px 0;
 }
-.instragram-title{
+.instragram-title {
   font-size: 40px;
   margin-bottom: 10px;
 }
-.instragram-description{
+.instragram-description {
   color: #272727;
   font-size: 18px;
   line-height: 1.4em;
 }
 /* Flowers section style */
-.flowers-container{
+.flowers-container {
   display: flex;
   justify-content: space-around;
   align-items: center;
   padding: 0 100px;
   margin-bottom: 100px;
 }
-.flowers-image{
+.flowers-image {
   width: 300px;
 }
 /*  Latest deal style */
-.latest-container{
+.latest-container {
   background-image: url("./Flower Asset/Rectangle 9.png");
   background-size: cover;
   height: 60vh;
   width: 86%;
   margin-left: 8%;
   margin-bottom: 100px;
-  
 }
-.latest-text{
+.latest-text {
   display: flex;
   flex-direction: column;
-  justify-content: center  ;
+  justify-content: center;
   align-items: center;
   padding-top: 10%;
 }
-.latest-title{
+.latest-title {
   font-size: 45px;
   padding-bottom: 10px;
 }
-.form-container{
+.form-container {
   margin-top: 40px;
   margin-left: 20%;
 }
-.input-feild{
+.input-feild {
   width: 700px;
   height: 50px;
   border-radius: 5px;
@@ -209,7 +208,7 @@
   font-size: 17px;
   margin-right: 20px;
 }
-.secondary-btn{
+.secondary-btn {
   background-color: #e55473;
   color: white;
   font-size: 16px;
@@ -217,4 +216,64 @@
   border: none;
   border-radius: 5px;
   height: 50px;
+}
+/* footer section  style */
+.footer-container {
+  background-color: black;
+  height: 50vh;
+  color: white;
+  text-align: center;
+  padding-top: 90px;
+}
+.color-2 {
+  color: #e55473;
+}
+.footer-title {
+  font-size: 45px;
+  margin-bottom: 20px;
+}
+.footer-description {
+  font-size: 17px;
+  margin: 20px 0;
+  line-height: 1.4em;
+}
+.copyright {
+  font-size: 15px;
+}
+/* special bonus section style */
+.buy-container {
+  background-image: url("./Flower Asset/f1.jpg");
+  background-size: cover;
+  height: 80vh;
+  width: 100%;
+  color: white;
+  
+
+}
+.buy-text {
+  text-align: center;
+  padding-top: 100px;
+}
+.buy-title {
+  font-size: 60px;
+  margin-bottom: 30px;
+}
+
+.buy-description{
+  color: #272727;
+  margin: 10px 0;
+}
+.buy-button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  
+}
+.btn-buy{
+  margin-right: 20px;
+}
+.btn-buy:hover{
+  color: black;
+  background-color: chartreuse;
 }
