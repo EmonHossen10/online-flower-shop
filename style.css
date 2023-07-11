@@ -247,8 +247,6 @@
   height: 80vh;
   width: 100%;
   color: white;
-  
-
 }
 .buy-text {
   text-align: center;
@@ -259,21 +257,20 @@
   margin-bottom: 30px;
 }
 
-.buy-description{
+.buy-description {
   color: #272727;
   margin: 10px 0;
 }
-.buy-button{
+.buy-button {
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 20px;
-  
 }
-.btn-buy{
+.btn-buy {
   margin-right: 20px;
 }
-.btn-buy:hover{
+.btn-buy:hover {
   color: black;
   background-color: chartreuse;
 }
